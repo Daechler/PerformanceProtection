@@ -1,0 +1,6 @@
+name: PerformanceProtection
+version: '${project.version}'
+main: net.daechler.performanceprotection.PerformanceProtection
+api-version: '1.20'
+authors: [Daechler]
+description: Protect players when server performance drops.
